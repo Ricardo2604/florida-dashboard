@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/florida-dashboard/static/css/main.36ab76b0.css",
+    "main.js": "/florida-dashboard/static/js/main.a0f39758.js",
+    "index.html": "/florida-dashboard/index.html",
+    "main.36ab76b0.css.map": "/florida-dashboard/static/css/main.36ab76b0.css.map",
+    "main.a0f39758.js.map": "/florida-dashboard/static/js/main.a0f39758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ab76b0.css",
+    "static/js/main.a0f39758.js"
+  ]
+}
